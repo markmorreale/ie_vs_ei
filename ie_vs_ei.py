@@ -11,4 +11,5 @@ print("The CMUDict Pronouncing Dictionary will give the ARPABET pronunciation fo
 print(pronouncing.phones_for_word(word))
 
 #TODO: add list of all CMUDict words containing the sound IY @markmorreale
+#use more methods to work with all the words in the dictionary
 
